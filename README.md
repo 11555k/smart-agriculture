@@ -87,6 +87,6 @@ https://github.com/user-attachments/assets/b47ed27e-ac89-48c3-9f99-bf0d96d8919e
 ---
 
 
-**Author:** [Marwan mostafa]
+**Author:** Marwan mostafa , Abdelrhman shaker
 **Tags:** ESP32, IoT, Embedded Systems, Renewable Energy, Smart Agriculture, PCB Design
 +++
