@@ -47,11 +47,11 @@ Includes:
 * Relay driver circuit
 * Test points for debugging and current monitoring
 
-`![PCB Layout]![WhatsApp Image 2025-10-30 at 23 47 28_00d2993d](https://github.com/user-attachments/assets/56eb36cd-de8d-4a78-bd95-2d478cccb7de)
+![WhatsApp Image 2025-10-30 at 23 47 28_00d2993d](https://github.com/user-attachments/assets/56eb36cd-de8d-4a78-bd95-2d478cccb7de)
 
-`
-`![Schematic](![WhatsApp Image 2025-10-30 at 23 37 55_8db17a8a](https://github.com/user-attachments/assets/caf2f2be-b3d3-42aa-a5d8-1de20dc19f8c)
-)`
+
+(![WhatsApp Image 2025-10-30 at 23 37 55_8db17a8a](https://github.com/user-attachments/assets/caf2f2be-b3d3-42aa-a5d8-1de20dc19f8c)
+)
 ![WhatsApp Image 2025-10-30 at 23 01 42_797ce561](https://github.com/user-attachments/assets/f3b813ac-a374-43cf-8ad6-8fc972d96f30)
 
 ![WhatsApp Image 2025-10-30 at 23 04 20_ce58f6c8](https://github.com/user-attachments/assets/44adcd94-0668-4609-b24c-0004176e68a2)
