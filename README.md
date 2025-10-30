@@ -81,12 +81,13 @@ https://github.com/user-attachments/assets/b47ed27e-ac89-48c3-9f99-bf0d96d8919e
    * Soil sensor → Analog pin
    * Relay → Digital pin
    * Pump → Relay output
-4. **Upload Code:** Flash the firmware from `/software` using Arduino IDE.
+4. **Upload Code:** Flash the firmware  using Arduino IDE.
 5. **Monitor & Test:** Check soil readings and verify auto pump control.
 
 ---
 
 
 **Author:** Marwan mostafa , Abdelrhman shaker
+
 **Tags:** ESP32, IoT, Embedded Systems, Renewable Energy, Smart Agriculture, PCB Design
 +++
