@@ -60,9 +60,14 @@ Includes:
 
 ## GUI
 * HTML, CSS , JAVASCRIPT , AJAX
+* Responsive design for phone monitroing
 
 
 https://github.com/user-attachments/assets/f95c4ca3-cc9d-40af-b9c0-b75ac4cffb38
+
+
+
+https://github.com/user-attachments/assets/b47ed27e-ac89-48c3-9f99-bf0d96d8919e
 
 
 ---
@@ -84,4 +89,4 @@ https://github.com/user-attachments/assets/f95c4ca3-cc9d-40af-b9c0-b75ac4cffb38
 
 **Author:** [Marwan mostafa]
 **Tags:** ESP32, IoT, Embedded Systems, Renewable Energy, Smart Agriculture, PCB Design
-++++
++++
